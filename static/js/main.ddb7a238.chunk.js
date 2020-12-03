@@ -1,2 +1,0 @@
-(this["webpackJsonpb-amey.github.io"]=this["webpackJsonpb-amey.github.io"]||[]).push([[0],{10:function(t,e,n){},11:function(t,e,n){"use strict";n.r(e);var c=n(0),i=n(1),o=n.n(i),s=n(3),r=n.n(s);n(9),n(10);var a=function(){return Object(c.jsx)("div",{className:"App"})};r.a.render(Object(c.jsx)(o.a.StrictMode,{children:Object(c.jsx)(a,{})}),document.getElementById("root"))},9:function(t,e,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.ddb7a238.chunk.js.map
